@@ -1,0 +1,15 @@
+{ 
+	"datapath": "C:\\CParisel\\data",
+ 	"location": "Chevire",
+ 	"horizon":[1,6],
+ 	"timeattr": false,
+ 	"corrmatrix": [false, 10],
+ 	"inputtype": "unique",
+ 	"outputtype": "unique",
+ 	"history": 5,
+ 	"methodname": "LinearRegression",
+ 	"methodparam": [{
+ 		"fit_intercept": true, 
+ 		"normalize": true
+ 		}]
+}

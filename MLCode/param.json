@@ -1,0 +1,17 @@
+{ 
+	"datapath": "C:\\CParisel\\data",
+ 	"location": "Chevire",
+ 	"horizon":[1,6],
+ 	"timeattr": true,
+ 	"corrmatrix": [false, 10],
+ 	"global": true,
+ 	"univariate": false,
+ 	"history": 5,
+ 	"methodname": "RandomForest",
+ 	"methodparam": [{
+ 		"n_estimators": 1500, 
+ 		"criterion": "mse",
+ 		"max_features": "auto",
+ 		"min_samples_split": 2
+ 		}]
+}
